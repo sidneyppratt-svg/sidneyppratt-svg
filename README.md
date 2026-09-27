@@ -16,7 +16,7 @@ Economics & Finance double major. I build Python models on real market data to s
 All four models run live on real market data at [sidneyppratt.com](https://sidneyppratt.com).
 
 ## Tools
-Python · pandas · scikit-learn · Claude · Streamlit · Jupyter / Google Colab · GitHub
+Python · pandas · scikit-learn · Streamlit · Jupyter / Google Colab · GitHub · Claude (AI-assisted development)
 
 ## Other Projects
 - [Hockey Pathway Navigator](https://github.com/sidneyppratt-svg/hockey-pathway-navigator): an AI-powered guide to hockey development paths from youth to the pros
