@@ -1,6 +1,6 @@
 # Hi, I'm Sidney Pratt 👋
 
-Economics & Finance double major. I build Python models on real market data to see how markets really work.
+Economics & Finance double degree student. I build Python models on real market data to see how markets really work.
 
 🌐 **Live portfolio:** [sidneyppratt.com](https://sidneyppratt.com)
 
